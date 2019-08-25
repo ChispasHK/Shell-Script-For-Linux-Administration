@@ -1,5 +1,5 @@
 # Shell Script For Linux Administration
 ## run-level-top.sh
-Menu with which you can change runlevel and also tells us in which we are
+Menu to change runlevel and indicates which runlevel is running
 ## menu-lampp.sh
 ## menu-blue.sh
