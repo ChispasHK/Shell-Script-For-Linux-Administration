@@ -22,9 +22,9 @@ then
 				echo ""
 				echo "Elige una opcion"
 				echo "	[0]Exit"
-				echo "	[1]Executa el comando top"
-				echo "	[4]Executa el RunLevel 4"
-				echo "	[5]Executa el RunLevel 5"
+				echo "	[1]Ejecuta el comando top"
+				echo "	[4]Ejecuta el RunLevel 4"
+				echo "	[5]Ejecuta el RunLevel 5"
 				
 			echo ""
 			echo "Escribe el nuemero"
