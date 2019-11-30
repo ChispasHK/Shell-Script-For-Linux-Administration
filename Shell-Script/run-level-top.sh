@@ -27,7 +27,7 @@ then
 				echo "	[5]Ejecuta el RunLevel 5"
 				
 			echo ""
-			echo "Escribe el nuemero"
+			echo "Escribe el numero"
 			read num
 
 			case $num in
