@@ -4,7 +4,7 @@
 
 if `test $# -ne 0 ` 
 then 
-	echo "Este shellscript no tiene parametros"
+	echo "Este shellscript no tiene parámetros"
 	exit 1;	
 fi
 
